@@ -4,7 +4,7 @@ dist
 .rvmrc
 .ruby-version
 *.rbc
-koans/*
+#koans/*
 *~
 .idea/workspace.xml
 .idea/misc.xml
